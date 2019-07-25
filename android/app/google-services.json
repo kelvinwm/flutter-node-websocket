@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "67687002079",
+    "firebase_url": "https://clinicbooking-240ef.firebaseio.com",
+    "project_id": "clinicbooking-240ef",
+    "storage_bucket": "clinicbooking-240ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67687002079:android:7765727b3df91c98",
+        "android_client_info": {
+          "package_name": "com.example.admin.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67687002079-tmg3584tjnncl2t1fv962rcrdu882s7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh9O7yea5bvUPr1FU9mpTymDAsKAQBozU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67687002079-tmg3584tjnncl2t1fv962rcrdu882s7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67687002079:android:e7a8e1c5287d8c3d",
+        "android_client_info": {
+          "package_name": "knh.or.ke.hospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67687002079-2bn8pruvdhkc96l55c3uhk6hgdcht528.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "knh.or.ke.hospital",
+            "certificate_hash": "ce32bf120b2ba4c9ae1dc5ecc8682675c656d460"
+          }
+        },
+        {
+          "client_id": "67687002079-tmg3584tjnncl2t1fv962rcrdu882s7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh9O7yea5bvUPr1FU9mpTymDAsKAQBozU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67687002079-tmg3584tjnncl2t1fv962rcrdu882s7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67687002079:android:d3992e8f87de4127",
+        "android_client_info": {
+          "package_name": "org.knh.knhappflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67687002079-tmg3584tjnncl2t1fv962rcrdu882s7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh9O7yea5bvUPr1FU9mpTymDAsKAQBozU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67687002079-tmg3584tjnncl2t1fv962rcrdu882s7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
